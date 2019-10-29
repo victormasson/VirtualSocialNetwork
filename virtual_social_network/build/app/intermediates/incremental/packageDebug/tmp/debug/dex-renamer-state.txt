@@ -1,4 +1,0 @@
-#Sun Oct 27 13:13:13 CET 2019
-base.0=C\:\\development\\test\\virtual_social_network\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
