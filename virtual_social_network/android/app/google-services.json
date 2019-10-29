@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427864117014",
+    "firebase_url": "https://virtualsocialnetwork.firebaseio.com",
+    "project_id": "virtualsocialnetwork",
+    "storage_bucket": "virtualsocialnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427864117014:android:3ac77b0b758e0a193b0a37",
+        "android_client_info": {
+          "package_name": "com.example.virtual_social_network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427864117014-c4atfjh12v3g5ddrdqflchvs4q4putvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDss3MAivJzqgnDrxA1vMK5SW5Etiki86U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427864117014-c4atfjh12v3g5ddrdqflchvs4q4putvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
